@@ -332,6 +332,9 @@ strong {
   background: #0c0c0d;
   border-bottom: 1px solid #1f1f1f;
 }
+.dark-mode .navbar-collapse {
+  background: #0c0c0d;
+}
 .dark-mode .navbar-toggler-icon {
   background: #ffffff;
 }
@@ -515,6 +518,7 @@ strong {
   .navbar-collapse {
     text-align: center;
     padding-bottom: 20px;
+    background-color: #ffffff;
   }
   .navbar-expand-sm .navbar-nav .nav-link {
     padding: 3px 20px;
