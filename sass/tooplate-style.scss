@@ -269,6 +269,8 @@ strong {
 
     &:hover {
       opacity: 1;
+      box-shadow: 0 0 40px 0 rgba(69, 69, 69, 0.5),
+        0 0 40px 0 rgba(255, 255, 255, 0.5);
     }
   }
 }
