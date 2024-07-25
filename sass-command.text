@@ -1,0 +1,1 @@
+sass --watch sass/tooplate-style.scss:css/tooplate-style.css
