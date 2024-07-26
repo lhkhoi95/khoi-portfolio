@@ -123,7 +123,6 @@ strong {
   font-size: $small-font-size;
   line-height: normal;
   overflow: hidden;
-  background-color: $secondary-button-color;
   @include transition-effect;
   &:hover {
     color: $main-color;
@@ -136,6 +135,10 @@ strong {
       color: $text-white !important;
     }
   }
+}
+
+#view-resume-btn {
+  background-color: $secondary-button-color;
 }
 
 // ANIMATED TEXT
