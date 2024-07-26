@@ -1,1 +1,1 @@
-sass --watch sass/tooplate-style.scss:css/tooplate-style.css
+sass --watch sass/style.scss:css/style.css

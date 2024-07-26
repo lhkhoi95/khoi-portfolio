@@ -19,6 +19,7 @@ $dark-mode-color: #0c0c0d;
 $main-color: #ffc200;
 $border-color: #f2f2f1;
 $button-color: #474559;
+$secondary-button-color: #f2f2f1;
 
 $small-font-size: 14px;
 $link-font-size: 16px;
@@ -122,6 +123,7 @@ strong {
   font-size: $small-font-size;
   line-height: normal;
   overflow: hidden;
+  background-color: $secondary-button-color;
   @include transition-effect;
   &:hover {
     color: $main-color;
