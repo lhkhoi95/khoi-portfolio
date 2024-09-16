@@ -43,7 +43,8 @@
 
     // Create a link element
     const link = document.createElement("a");
-    link.href = "files/Khoi_Ly_Resume.pdf";
+    link.href =
+      "https://drive.google.com/file/d/1VzkYzf2sgK8w_EcEn3XU3zFTENfNoqpw/view?usp=sharing";
     link.target = "_blank";
 
     document.body.appendChild(link);
